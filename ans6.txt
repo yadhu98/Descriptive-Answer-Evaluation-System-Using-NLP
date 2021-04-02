@@ -1,0 +1,1 @@
+Software process is the method actionswe undertake to create a software product according to the needs of a customer. It may involve communication planning,modelling etc. It is importanat because inorder to complete a given product in time and as required by the client we need a well defined process which can make a software error free and fast.
